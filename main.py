@@ -11,6 +11,7 @@ class MainApp(ctk.CTk):
         self.title('Муз инструменты')
         self.geometry('865x450')
         self.resizable(width=False, height=False)
+        #qweqeqweqew
 
         # Создание фрейма для отображения таблицы
         self.table_frame = ctk.CTkFrame(self, width=700, height=400)
